@@ -1,7 +1,7 @@
 # Minha API Flask com SQLite
 
 ## 📌 Descrição
-Esta API foi desenvolvida usando Flask e SQLite para [objetivo do projeto].  
+Esta API foi desenvolvida usando Flask e SQLite .  
 
 ## 🚀 Tecnologias
 - Python 3.x
