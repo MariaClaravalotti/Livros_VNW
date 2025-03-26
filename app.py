@@ -1,8 +1,10 @@
 # Importando a classe Flask
 from flask import Flask, request, jsonify, render_template 
 import sqlite3
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Função para inicializar o banco de dados e inserir dados iniciais
 def init_db():
